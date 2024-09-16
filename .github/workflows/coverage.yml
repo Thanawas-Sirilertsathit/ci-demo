@@ -22,7 +22,7 @@ jobs:
 
       - name: Run tests with coverage
         run: |
-          coverage run --branch -m pytest  # Run tests using coverage with branch option
+          coverage run --branch -m unittest  # Run tests using coverage with branch option
 
       - name: Generate a coverage report
         run: |
