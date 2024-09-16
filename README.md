@@ -2,7 +2,7 @@ Continuous Integration Demo
 ===========================
 [![Run unit test](https://github.com/Thanawas-Sirilertsathit/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/Thanawas-Sirilertsathit/ci-demo/actions/workflows/python-unittest.yml)
 [![Run Flake 8](https://github.com/Thanawas-Sirilertsathit/ci-demo/actions/workflows/run-flake8.yml/badge.svg)](https://github.com/Thanawas-Sirilertsathit/ci-demo/actions/workflows/run-flake8.yml)
-[![Run Tests with Coverage](https://github.com/Thanawas-Sirilertsathit/ci-demo/actions/workflows/coverage.yml/badge.svg)](https://github.com/Thanawas-Sirilertsathit/ci-demo/actions/workflows/coverage.yml)
+[![Run Tests with Coverage](https://github.com/Thanawas-Sirilertsathit/ci-demo/actions/workflows/coverage.yml/badge.svg?branch=master)](https://github.com/Thanawas-Sirilertsathit/ci-demo/actions/workflows/coverage.yml)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
